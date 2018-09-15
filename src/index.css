@@ -1,0 +1,9 @@
+input {
+    margin-right: 20px;
+}
+
+body {
+    background-image: url("bg.svg");
+    background-size: auto;
+    background-repeat: repeat;
+}

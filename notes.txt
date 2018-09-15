@@ -1,0 +1,5 @@
+June-2-2018 Update:
+
+1. https://hipsterjesus.com api is malfunctioning, html tags don't appear on text
+2. To overcome the Cross-Origin Resource Sharing access control, set the header to "Access-Control-Allow-Origin: *"); or install the CORS extension
+3. Alternative lorem ipsum API: https://baconipsum.com
